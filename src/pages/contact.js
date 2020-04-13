@@ -26,6 +26,10 @@ const ContactPage = ({
               <input type="text" name="w3lName" id="w3lName"/>
             </div>
             <div>
+              <label htmlFor="w3lName">Challenge you're submitting for</label>
+              <input type="text" name="w3lName" id="w3lName"/>
+            </div>
+            <div>
               <label htmlFor="w3lSender">Link to Github Repository</label>
               <input type="text" name="w3lSender" id="w3lSender"/>
             </div>
