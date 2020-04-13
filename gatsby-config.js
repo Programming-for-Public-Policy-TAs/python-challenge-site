@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Harris Python Challenge`,
+    title: `Harris Python Challenges`,
     description: `A site for for hosting and submitting python coding challenges for Harris students.`,
     siteUrl: `https://harris-python-challenges.netlify.com/`,
     home: {

@@ -17,8 +17,10 @@ export default () => (
     render={data => (
       <div className="hero-header">
         <div className="headline">{data.site.siteMetadata.home.title}</div>
+        <br></br>
         <div className="primary-content">
-          <p>Submit . Challenges will be posted weekly.</p>
+          <p>Your friendly TAs have devised some extra hard practice problems for you to test your python coding skills and explore data that you won't see in class.
+          Submit a correct answer to a weekly challenge and your name will be added to the <b>Python Superstars</b> section of this website. Challenges will be posted weekly.</p>
         </div>
         <Link to='/contact' className="button -primary">Submit your Solutions &rarr;</Link>
       </div>
