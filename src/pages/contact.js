@@ -20,22 +20,20 @@ const ContactPage = ({
           <p>Just enter your name and a link to your repo with solutions &rarr;</p>
         </div>
         <div>
-          <form className="form-container" action="https://sendmail.w3layouts.com/SubmitContactForm" method="post">
-            <div>
-              <label htmlFor="w3lName">Full Name</label>
-              <input type="text" name="w3lName" id="w3lName"/>
-            </div>
-            <div>
-              <label htmlFor="w3lName">Challenge you're submitting for</label>
-              <input type="text" name="w3lName" id="w3lName"/>
-            </div>
-            <div>
-              <label htmlFor="w3lSender">Link to Github Repository</label>
-              <input type="text" name="w3lSender" id="w3lSender"/>
-            </div>
-            <div style={{display: "flex", justifyContent: "flex-end"}}>
-              <input type="submit" className="button -primary" style={{marginRight: 0}} />
-            </div>
+          <form class="form-container" method="post" action="https://getform.io/f/2b432e36-852b-46e3-997d-4b8af3258460">
+            <label>
+              Full name
+              <input type="text" name="name" id="name" />
+            </label>
+            <label>
+              Challenge you're submitting for
+              <input type="text" name="subject" id="subject" />
+            </label>
+            <label>
+              Link to Github repository with your solution 
+              <input type="text" name="message" id="message" />
+            </label>
+            <button type="submit" class="button -primary">Submit</button>
           </form>
         </div>
       </div>

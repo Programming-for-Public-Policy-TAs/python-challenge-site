@@ -18,7 +18,7 @@ export default () => (
       <div className="hero-header">
         <div className="headline">{data.site.siteMetadata.home.title}</div>
         <div className="primary-content">
-          <p>Challenges will be posted weekly. </p>
+          <p>Submit . Challenges will be posted weekly.</p>
         </div>
         <Link to='/contact' className="button -primary">Submit your Solutions &rarr;</Link>
       </div>
