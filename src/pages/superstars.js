@@ -11,14 +11,49 @@ const SuperstarsPage = ({
   return (
     <Layout>
       <Helmet>
-        <title>Python Superstars</title>
+        <title className="headline">Python Superstars</title>
         <meta name="description" content={site.siteMetadata.description} />
       </Helmet>
       <div className="two-grids -contact">
-        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
-          <h1 className="post-title">Python Superstars</h1>
-
+        <div className="post-thumbnail" >
+          <h1 className="post-title">⭐ Python Superstars ⭐</h1>
         </div>
+      </div>
+      <div>
+        <div>
+          <h2>Challenge #1</h2>
+          <hr></hr>
+          <div>
+            <ul>• Student 1</ul>
+            <ul>• Student 2</ul>
+            <ul>• Student 3</ul>
+          </div>
+        </div>
+        <br></br>
+      </div>
+      <div>
+        <div>
+          <h2>Challenge #2</h2>
+          <hr></hr>
+          <div>
+            <ul>• Student 1</ul>
+            <ul>• Student 2</ul>
+            <ul>• Student 3</ul>
+          </div>
+        </div>
+        <br></br>
+      </div>
+      <div>
+        <div>
+          <h2>Challenge #3</h2>
+          <hr></hr>
+          <div>
+            <ul>• Student 1</ul>
+            <ul>• Student 2</ul>
+            <ul>• Student 3</ul>
+          </div>
+        </div>
+        <br></br>
       </div>
     </Layout>
   )
