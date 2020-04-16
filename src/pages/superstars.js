@@ -24,33 +24,7 @@ const SuperstarsPage = ({
           <h2>Challenge #1</h2>
           <hr></hr>
           <div>
-            <ul>• Student 1</ul>
-            <ul>• Student 2</ul>
-            <ul>• Student 3</ul>
-          </div>
-        </div>
-        <br></br>
-      </div>
-      <div>
-        <div>
-          <h2>Challenge #2</h2>
-          <hr></hr>
-          <div>
-            <ul>• Student 1</ul>
-            <ul>• Student 2</ul>
-            <ul>• Student 3</ul>
-          </div>
-        </div>
-        <br></br>
-      </div>
-      <div>
-        <div>
-          <h2>Challenge #3</h2>
-          <hr></hr>
-          <div>
-            <ul>• Student 1</ul>
-            <ul>• Student 2</ul>
-            <ul>• Student 3</ul>
+            <ul>• Nobody yet....</ul>
           </div>
         </div>
         <br></br>
