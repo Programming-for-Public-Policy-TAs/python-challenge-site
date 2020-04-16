@@ -15,7 +15,7 @@ const ContactPage = ({
         <meta name="description" content={site.siteMetadata.description} />
       </Helmet>
       <div className="two-grids -contact">
-        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
+        <div className="post-thumbnail" style={{marginBottom: 0}}>
           <h1 className="post-title">Submit Your Solutions</h1>
           <p>Just enter your name and a link to your repo with solutions &rarr;</p>
         </div>
