@@ -21,10 +21,30 @@ const SuperstarsPage = ({
       </div>
       <div>
         <div>
-          <h2>Challenge #1</h2>
+          <h2>Challenge #1 Superstars</h2>
           <hr></hr>
           <div>
-            <ul>• Nobody yet....</ul>
+            <ul>• Ashu Tayal</ul>
+            <ul>• Beth Karp</ul>
+            <ul>• Bhavya Mishra</ul>
+            <ul>• Cal Chengqi Fang</ul>
+            <ul>• Haoxuan Liu</ul>
+            <ul>• Ishan Nagpal</ul>
+            <ul>• Masaaki Sato</ul>
+            <ul>• Molly Blair</ul>
+            <ul>• Wenxuan Tony Jia</ul>
+            <ul>• Yuanqi Mao</ul>
+            <ul>• Yuhang Ma</ul>
+            <ul>• Yuqi Dong</ul>
+            <ul>• Yuwen Xiong</ul>
+            <ul>• Zimu Wan</ul>
+          </div>
+          <h2>Challenge #1 Honorable Mention</h2>
+          <hr></hr>
+          <div>
+            <ul>• Grayson Clapp</ul>
+            <ul>• Jingshuang Zhang</ul>
+            <ul>• Mark Sheppard</ul>
           </div>
         </div>
         <br></br>
