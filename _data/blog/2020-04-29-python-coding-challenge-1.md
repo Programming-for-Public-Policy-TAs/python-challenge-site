@@ -17,11 +17,11 @@ The program consists of two classes: World and Agent. In this challenge problem,
 
 **How to submit:** clone the repository below to your computer and complete the problems. To submit your solutions, click the "Submit Solutions" button on the home page and fill out the form with your name and a link to the repository with your solutions. Make sure the repository is set to "public" so we can see it. Submit before the deadline for credit on our Python Superstars leaderboard!
 
-<https://github.com/Sawyer-Middeleer/Harris-Challenge-2>
+**Challenge Repo:** <https://github.com/Sawyer-Middeleer/Harris-Challenge-2>
 
 ### Before you Begin ⚠️
 
-##### *This one is a bit complicated so take your time to read through this first.* 
+##### *This one is a bit complicated so take your time to read through this first.*
 
 The code may look daunting, especially in the later steps, but you should have all of the tools necessary to read and understand this code. Very few new concepts are introduced, and the ones that are are simple.
 
@@ -42,8 +42,6 @@ params = {'world_size':(20,20),
           'max_iter'  :100,
           'print_to_screen': True}  #toggle this T/F to print output
 ```
-
-
 
 Next, let's take a look at the World class. It starts with an init method that checks the parameters are okay and then calls other class methods to build the world. 
 
