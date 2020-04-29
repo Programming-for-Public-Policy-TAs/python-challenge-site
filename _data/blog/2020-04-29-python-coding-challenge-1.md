@@ -2,7 +2,7 @@
 template: BlogPost
 path: /coding-challenge-2
 date: 2020-04-28T23:21:30.132Z
-title: 'Python Coding Challenge #1'
+title: 'Python Coding Challenge #2'
 thumbnail: /assets/neighborhood-urban-building-roof.jpg
 ---
 # Schelling Agent-based Model
