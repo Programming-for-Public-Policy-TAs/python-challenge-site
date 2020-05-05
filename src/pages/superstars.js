@@ -32,6 +32,7 @@ const SuperstarsPage = ({
             <ul>• Ishan Nagpal</ul>
             <ul>• Masaaki Sato</ul>
             <ul>• Molly Blair</ul>
+            <ul>• Shehryar Nabi</ul>
             <ul>• Wenxuan Tony Jia</ul>
             <ul>• Yuanqi Mao</ul>
             <ul>• Yuhang Ma</ul>
