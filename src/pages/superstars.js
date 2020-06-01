@@ -40,12 +40,29 @@ const SuperstarsPage = ({
             <ul>• Yuwen Xiong</ul>
             <ul>• Zimu Wan</ul>
           </div>
-          <h2>Challenge #1 Honorable Mention</h2>
-          <hr></hr>
+            <h2>Challenge #1 Honorable Mention</h2>
+            <hr></hr>
           <div>
             <ul>• Grayson Clapp</ul>
             <ul>• Jingshuang Zhang</ul>
             <ul>• Mark Sheppard</ul>
+          </div>
+          <div>
+            <h2>
+              Challenge #2 Superstars
+            </h2>
+            <hr></hr>
+            <div>
+              <ul>• Leandro Grespan</ul>
+              <ul>• Molly Bair</ul>
+              <ul>• Cal Chengqi Fang</ul>
+              <ul>• Ashu Tayal</ul>
+            </div>
+              <h2>Challenge #2 Honorable Mention</h2>
+              <hr></hr>
+              <div>
+                <ul>• Yuhang Ma</ul>
+              </div>
           </div>
         </div>
         <br></br>
